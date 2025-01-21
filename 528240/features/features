@@ -1,0 +1,19 @@
+Feature: External API Interaction
+  In order to handle API responses correctly
+  As a service consumer
+  I want to simulate different API scenarios
+
+  Scenario: Successful API call
+    Given the API is available
+    When I make a request to the external API
+    Then I should receive a successful response
+
+  Scenario: API call with failure
+    Given the API is down
+    When I make a request to the external API
+    Then I should receive an error response
+
+  Scenario: API call with latency
+    Given the API has a delay
+    When I make a request to the external API
+    Then I should receive a response after a delay
