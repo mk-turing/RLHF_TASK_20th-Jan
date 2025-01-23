@@ -1,0 +1,7 @@
+[
+  {
+    "test_name": "TestFunctionToTest",
+    "execution_time": 1000000,
+    "memory_allocated": 1024
+  }
+]
