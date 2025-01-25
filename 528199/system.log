@@ -1,0 +1,16 @@
+2025/01/25 08:57:59 Logging initiated
+2025/01/25 08:57:59 Stream 1 - Batch 0 processed successfully, sum: 3990
+2025/01/25 08:57:59 Stream 2 - Simulated network interruption
+2025/01/25 08:57:59 Stream 2 - Batch 0 processed successfully, sum: 4960
+2025/01/25 08:57:59 Stream 0 - Batch 0 processed successfully, sum: 6253
+2025/01/25 08:57:59 Stream 1 - Batch 1 processed successfully, sum: 4209
+2025/01/25 08:57:59 Error occurred: Stream 1 - Batch 1 contains an error (retry 0)
+2025/01/25 08:57:59 Stream 0 - Batch 1 processed successfully, sum: 4384
+2025/01/25 08:57:59 Stream 0 - Batch 2 processed successfully, sum: 5586
+2025/01/25 08:57:59 Stream 1 - Batch 2 processed successfully, sum: 4814
+2025/01/25 08:58:00 Stream 1 - Batch 3 processed successfully, sum: 5009
+2025/01/25 08:58:00 Stream 0 - Batch 3 processed successfully, sum: 6223
+2025/01/25 08:58:00 Stream 1 - Batch 4 processed successfully, sum: 5380
+2025/01/25 08:58:00 Stream 1 - Simulated network interruption
+2025/01/25 08:58:00 Stream 0 - Batch 4 processed successfully, sum: 6798
+2025/01/25 08:58:00 Total sum of all processed batches across all streams: 57606
